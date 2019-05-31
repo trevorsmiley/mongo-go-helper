@@ -1,4 +1,4 @@
-module github.com/trevorsmiley/mongo-go-helper
+module github.com/trevorsmiley/mongohelper
 
 go 1.12
 
