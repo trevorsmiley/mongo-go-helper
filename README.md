@@ -1,2 +1,2 @@
-# mongo-go-helper
+# mongohelper
 Golang MongoDB helper
